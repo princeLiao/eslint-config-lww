@@ -1,0 +1,15 @@
+{
+  "name": "eslint-lww",
+  "version": "1.0.0",
+  "description": "eslint config for lww",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lww",
+    "eslint"
+  ],
+  "author": "lww",
+  "license": "ISC"
+}
