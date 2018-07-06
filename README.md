@@ -1,1 +1,1 @@
-# 个人NPM包
+# eslint-config
