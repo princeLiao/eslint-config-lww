@@ -3,11 +3,11 @@
 ## npm 发布流程
 + 配置package.json
 ``` bash
-npm init 
+    npm init 
 ```
 + 镜像设置改回原始设置
 ```bash
-npm config set registry http://registry.npmjs.org
+    npm config set registry http://registry.npmjs.org
 ```
 + 登录账户
 ```bash
