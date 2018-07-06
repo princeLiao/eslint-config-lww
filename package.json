@@ -1,5 +1,5 @@
 {
-  "name": "eslint-lww",
+  "name": "eslint-config-lww",
   "version": "1.0.0",
   "description": "eslint config for lww",
   "main": "index.js",
@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/princeLiao/eslint-lww.git"
+    "url": "git+https://github.com/princeLiao/eslint-config-lww.git"
   },
-  "bugs":"https://github.com/princeLiao/eslint-lww/issues",
-  "homepage":"https://github.com/princeLiao/eslint-lww#readme",
+  "bugs":"https://github.com/princeLiao/eslint-config-lww/issues",
+  "homepage":"https://github.com/princeLiao/eslint-config-lww#readme",
   "author": "lww <792356934@qq.com>",
   "license": "ISC"
 }
