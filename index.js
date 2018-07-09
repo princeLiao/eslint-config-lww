@@ -36,8 +36,11 @@ module.exports = {
             "single"
         ],
         "semi": [
-            "error",
+            "warn",
             "always"
-        ]
+        ],
+        "react/no-deprecated":"1",
+        "semi":"1",
+        "no-unused-vars":"1"
     }
 };
