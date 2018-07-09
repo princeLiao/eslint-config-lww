@@ -7,7 +7,8 @@
 ## eslint 配置使用
 + 依赖安装 (mac 全局安装需要加上 sudo)
 ```bash
-    npm i -g eslint-plugin-react eslint-plugin-html babel-eslint eslint-config-lww
+    cnpm i -g eslint-plugin-react eslint-plugin-html babel-eslint eslint-config-lww
+    cnpm i --save-dev eslint-plugin-react eslint-plugin-html babel-eslint eslint-config-lww
 ```
 + 配置 `.eslintrc.js`
 ```javascript
