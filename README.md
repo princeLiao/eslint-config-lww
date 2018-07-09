@@ -22,7 +22,7 @@
 ``` bash
     npm init 
 ```
-+ 镜像设置改回原始设置
++ 发布前镜像设置改回原始设置
 ```bash
     npm config set registry http://registry.npmjs.org
 ```
@@ -36,6 +36,10 @@
 + 发布
 ```
 npm publish
+```
++ 发布后
+```bash
+    npm config set registry https://registry.npm.taobao.org
 ```
 + 撤销发布  （版本发布半小时内有效）
 ```

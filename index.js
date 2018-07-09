@@ -39,8 +39,8 @@ module.exports = {
             "warn",
             "always"
         ],
-        "react/no-deprecated":"1",
+        "react/no-deprecated":1,
         "semi":"1",
-        "no-unused-vars":"1"
+        "no-unused-vars":1
     }
 };
